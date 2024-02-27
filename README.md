@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**lucasgabrielrs/lucasgabrielrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do desenvolvimento de software, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva.
+- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
+
+## Habilidades
+
+- **Linguagens de Programação:** Java, Python
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
+- **Banco de Dados:** MySQL, MongoDB
+- **Metodologias:** Scrum, Kanban
+- **Ferramentas:** Git, VS Code
+
+## Projetos Destacados
+
+### [Zapin]
+
+Estou treinando uma inteligencia artificial para usar em atendimentos na empresa em que trabalho.
+Para esse projeto estou utilizando a linguagem Python.
+
+### [Clikar]
+
+Ainda em desenvolvimento, nesse repositório tenho um projeto de desenvolvimento web que estou trabalhando para a empresa Clikar de materiais elétricos
+
+
+## Contato
+
+- **E-mail:** [lucasgabrielrs123@gmail.com]
+- **Twitter:** [lucasrs_13]
+- **LinkedIn:** []
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
