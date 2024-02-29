@@ -28,8 +28,8 @@ Ainda em desenvolvimento, nesse repositório tenho um projeto de desenvolvimento
 
 ## Contato
 
-- **E-mail:** [lucasgabrielrs123@gmail.com]
-- **Twitter:** [lucasrs_13]
-- **LinkedIn:** []
+- **E-mail:** lucasgabrielrs123@gmail.com
+- **Twitter:** lucasrs_13
+- **LinkedIn:** https://www.linkedin.com/in/lucas-gabriel-rodrigues-silva-9271b2264/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
