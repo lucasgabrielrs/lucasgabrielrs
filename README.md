@@ -1,5 +1,6 @@
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo desenvolvimento de software, com um interesse especial em qualidade e testes de software. Estou sempre em busca de novas aprendizagens e maneiras de contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+# Seja bem-vindo ao meu perfil! 👋 
+Sou um estudante apaixonado pelo desenvolvimento de software, com um interesse especial em qualidade e testes de software. Estou sempre em busca de novas aprendizagens e maneiras de contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
 ## Sobre Mim
 
