@@ -4,7 +4,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do des
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva.
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
+- 🌱 **Atividades Atuais**: Atualmente estou estagiando como analista de suporte técnico pela empresa Azapfy. Além disso, estou estudando para em breve me tornar um QA.
 
 ## Habilidades
 
@@ -12,18 +12,18 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do des
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code
+- **Ferramentas:** Git, VS Code, Cypress, K6
 
 ## Projetos Destacados
 
-### [Zapin]
+### Zapin
 
 Estou treinando uma inteligencia artificial para usar em atendimentos na empresa em que trabalho.
 Para esse projeto estou utilizando a linguagem Python.
 
-### [Clikar]
+### LogT3ch
 
-Ainda em desenvolvimento, nesse repositório tenho um projeto de desenvolvimento web que estou trabalhando para a empresa Clikar de materiais elétricos
+Ainda em desenvolvimento, nesse repositório tenho um projeto de desenvolvimento web que estou trabalhando para uma agência de desenvolvimento web, com foco no nicho de transportadoras, que estou fundando com mais dois amigos, a LogT3ch
 
 
 ## Contato
