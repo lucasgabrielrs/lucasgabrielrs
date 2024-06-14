@@ -1,5 +1,5 @@
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo do desenvolvimento de software, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo desenvolvimento de software, com um interesse especial em qualidade e testes de software. Estou sempre em busca de novas aprendizagens e maneiras de contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
 ## Sobre Mim
 
@@ -23,8 +23,7 @@ Para esse projeto estou utilizando a linguagem Python.
 
 ### LogT3ch
 
-Ainda em desenvolvimento, nesse repositório tenho um projeto de desenvolvimento web que estou trabalhando para uma agência de desenvolvimento web, com foco no nicho de transportadoras, que estou fundando com mais dois amigos, a LogT3ch
-
+Atualmente, estou desenvolvendo um projeto web para uma agência de desenvolvimento focada no nicho de transportadoras, chamada LogT3ch, que estou fundando juntamente com dois amigos. Este projeto está em fase de desenvolvimento e visa proporcionar soluções tecnológicas eficientes e personalizadas.
 
 ## Contato
 
