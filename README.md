@@ -5,7 +5,7 @@ Meu nome é Lucas Gabriel e sou um estudante apaixonado pelo desenvolvimento de 
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva.
-- 🌱 **Atividades Atuais**: Atualmente estou estagiando como analista de suporte técnico pela empresa Azapfy. Além disso, estou estudando para em breve me tornar um QA.
+- 🌱 **Atividades Atuais**: Atualmente estou estagiando como analista de suporte técnico pela empresa Azapfy.
 
 ## Habilidades
 
