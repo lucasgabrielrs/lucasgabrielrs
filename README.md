@@ -26,6 +26,7 @@ Para esse projeto estou utilizando a linguagem Python.
 
 Atualmente, estou desenvolvendo um projeto web para uma agência de desenvolvimento focada no nicho de transportadoras, chamada LogT3ch, que estou fundando juntamente com dois amigos. Este projeto está em fase de desenvolvimento e visa proporcionar soluções tecnológicas eficientes e personalizadas.
 
+
 ## Contato
 
 - **E-mail:** lucasgabrielrs123@gmail.com
