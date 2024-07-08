@@ -26,6 +26,9 @@ Para esse projeto estou utilizando a linguagem Python.
 
 Atualmente, estou desenvolvendo um projeto web para uma agência de desenvolvimento focada no nicho de transportadoras, chamada LogT3ch, que estou fundando juntamente com dois amigos. Este projeto está em fase de desenvolvimento e visa proporcionar soluções tecnológicas eficientes e personalizadas.
 
+### TechPeças
+
+Desenvolvi um sistema de gestão de peças de hardware utilizando Java para a interface gráfica (Swing) e MongoDB para manipulação de dados. Este projeto foi meu trabalho final para as disciplinas de Programação Orientada a Objetos e Linguagens de Programação na faculdade. O sistema permite o cadastro e gerenciamento de peças, diferenciando funcionalidades entre clientes e administradores.
 
 ## Contato
 
