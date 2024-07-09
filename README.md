@@ -13,7 +13,7 @@ Meu nome é Lucas Gabriel e sou um estudante apaixonado pelo desenvolvimento de 
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Cypress, K6
+- **Ferramentas:** Git, VS Code, IntelliJ, Cypress, K6, Postman
 
 ## Projetos Destacados
 
