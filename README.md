@@ -1,30 +1,26 @@
 
 # Seja bem-vindo ao meu perfil! 👋 
-Meu nome é Lucas Gabriel e sou um estudante apaixonado pelo desenvolvimento de software. Estou sempre em busca de novas aprendizagens e maneiras de contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+
+Sou Lucas Gabriel, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software focado em criar soluções eficientes. Tenho direcionado meus estudos para o desenvolvimento backend com GO e PHP/Laravel e boas práticas de engenharia de software. 
 
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva.
-- 🌱 **Atividades Atuais**: Atualmente estou estagiando como analista de suporte técnico pela empresa Azapfy.
+- 🌱 **Atividades Atuais**: Desenvolvedor Júnior pela empresa Azapfy.
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python
+- **Linguagens de Programação:** PHP/Laravel, Go, Java, Python
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
+- **Banco de Dados:** MySQL, MongoDB, Redis
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, IntelliJ, Cypress, K6, Postman
+- **Ferramentas:** Git, VS Code, Postman, Grafana, Prometheus
 
 ## Projetos Destacados
 
-### Zapin
+### Scheduler System ()
 
-Estou treinando uma inteligencia artificial para usar em atendimentos na empresa em que trabalho.
-Para esse projeto estou utilizando a linguagem Python.
-
-### LogT3ch
-
-Atualmente, estou desenvolvendo um projeto web para uma agência de desenvolvimento focada no nicho de transportadoras, chamada LogT3ch, que estou fundando juntamente com dois amigos. Este projeto está em fase de desenvolvimento e visa proporcionar soluções tecnológicas eficientes e personalizadas.
+Desenvolvi, em colaboração com Daniel Ferraz (Danilim04), um serviço de agendamento de tarefas (job scheduler) em Go para automatizar e orquestrar integrações críticas da empresa. A solução, que conta com um sistema robusto de métricas e logs estruturados para alta observabilidade, resolveu um gargalo operacional chave, garantindo maior confiabilidade e eficiência no processo.
 
 ### TechPeças (https://github.com/lucasgabrielrs/java/tree/main/TechPecas)
 
@@ -33,7 +29,6 @@ Desenvolvi um sistema de gestão de peças de hardware utilizando Java para a in
 ## Contato
 
 - **E-mail:** lucasgabrielrs123@gmail.com
-- **Twitter:** lucasrs_13
-- **LinkedIn:** https://www.linkedin.com/in/lucas-gabriel-rodrigues-silva-9271b2264/
+- **LinkedIn:** www.linkedin.com/in/lucasgabrielrs
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
