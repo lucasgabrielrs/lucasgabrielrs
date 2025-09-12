@@ -18,7 +18,7 @@ Sou Lucas Gabriel, estudante de Análise e Desenvolvimento de Sistemas e desenvo
 
 ## Projetos Destacados
 
-### Scheduler System ()
+### Scheduler System (https://github.com/lucasgabrielrs/scheduler_system.git)
 
 Desenvolvi, em colaboração com Daniel Ferraz (Danilim04), um serviço de agendamento de tarefas (job scheduler) em Go para automatizar e orquestrar integrações críticas da empresa. A solução, que conta com um sistema robusto de métricas e logs estruturados para alta observabilidade, resolveu um gargalo operacional chave, garantindo maior confiabilidade e eficiência no processo.
 
