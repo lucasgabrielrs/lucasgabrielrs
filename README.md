@@ -1,16 +1,18 @@
 
 # Seja bem-vindo ao meu perfil! 👋 
 
-Sou Lucas Gabriel, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software focado em criar soluções eficientes. Tenho direcionado meus estudos para o desenvolvimento backend com GO e PHP/Laravel e boas práticas de engenharia de software. 
+Lucas Gabriel | Software Engineering Student & Backend Developer
+
+Desenvolvedor focado na criação de soluções robustas e eficientes para o ecossistema backend. Atualmente, aprofundo meus conhecimentos em C# (.NET) e Python, aplicando rigorosamente princípios de Clean Code, SOLID e boas práticas de engenharia de software para entregar sistemas escaláveis e de alta qualidade.
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva.
-- 🌱 **Atividades Atuais**: Desenvolvedor Júnior pela empresa Azapfy.
+- 👨‍🎓 **Graduação**: Formado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Software.
+- 🌱 **Atividades Atuais**: Desenvolvedor Júnior pela empresa IMendes.
 
 ## Habilidades
 
-- **Linguagens de Programação:** PHP/Laravel, Go, Java, Python
+- **Linguagens de Programação:** C#, Python, PHP/Laravel, Go
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB, Redis
 - **Metodologias:** Scrum, Kanban
